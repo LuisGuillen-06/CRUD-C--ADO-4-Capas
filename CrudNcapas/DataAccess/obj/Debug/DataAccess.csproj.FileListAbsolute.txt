@@ -1,0 +1,9 @@
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\bin\Debug\Common.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\DataAccess\obj\Debug\DataAccess.pdb

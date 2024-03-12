@@ -1,0 +1,11 @@
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\Domain.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\Domain.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\Common.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\Common.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\obj\Debug\Domain.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Domain\obj\Debug\Domain.pdb

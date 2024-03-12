@@ -1,0 +1,6 @@
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\bin\Debug\Common.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\bin\Debug\Common.pdb
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\obj\Debug\Common.dll
+C:\Users\luisf\OneDrive\Escritorio\CRUD-C#-N-Capas\CrudNcapas\Common\obj\Debug\Common.pdb
